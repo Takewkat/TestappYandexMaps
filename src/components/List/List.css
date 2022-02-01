@@ -1,0 +1,22 @@
+.list {
+  margin-left: -0.6em;
+}
+
+.list-item {
+  user-select: none;
+  background-color: rgb(217, 217, 248);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  margin: 8px 8px 8px 0;
+  border-radius: 8px;
+}
+
+.list-item button {
+  width: 24px;
+  height: 20px;
+  margin: 0 8px;
+  cursor: pointer;
+  align-self: center;
+}

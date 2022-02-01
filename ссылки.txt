@@ -1,0 +1,37 @@
+
+документация 
+https://yandex.ru/dev/maps/jsbox/2.1/mapparams/
+АПИ 
+https://developer.tech.yandex.ru/services/3/
+
+адрес по клику с карты
+https://yandex.ru/dev/maps/jsbox/2.1/event_reverse_geocode/
+
+https://yandex.ru/dev/maps/jsapi/doc/2.1/ref/reference/GeoObjectCollection.html
+https://yandex.com/dev/maps/jsapi/doc/2.1/ref/reference/Placemark.html#Placemark__param-geometry
+
+https://github.com/gribnoysup/react-yandex-maps/issues/255
+
+чьи-то попытки по адресу
+https://dev-qa.com/1945596/how-do-i-dynamically-add-labels-to-the-react-yandex-map
+
+
+вынесение поиска
+https://codesandbox.io/embed/react-outlet-search-forked-4xsly?codemirror=1
+
+
+
+отцентрировать карту 
+https://github.com/gribnoysup/react-yandex-maps/issues/304
+
+зумировать карту
+https://github.com/gribnoysup/react-yandex-maps/issues/136
+https://yandex.ru/dev/maps/jsapi/doc/2.1/ref/reference/util.bounds.html#method_detail__getCenterAndZoom
+
+работа с зумом 
+https://yandex.ru/dev/maps/jsapi/doc/2.1/ref/reference/Map.html#field_detail__zoomRange
+
+drag & drop list 
+https://www.freecodecamp.org/news/how-to-add-drag-and-drop-in-react-with-react-beautiful-dnd/
+
+

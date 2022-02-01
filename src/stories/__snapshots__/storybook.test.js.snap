@@ -1,0 +1,315 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots List Delete Point 1`] = `
+<ul
+  data-rbd-droppable-context-id="1"
+  data-rbd-droppable-id="allo"
+>
+  <li
+    aria-describedby="rbd-hidden-text-1-hidden-text-7"
+    className="list-item"
+    data-rbd-drag-handle-context-id="1"
+    data-rbd-drag-handle-draggable-id="1"
+    data-rbd-draggable-context-id="1"
+    data-rbd-draggable-id="1"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      1 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+  <li
+    aria-describedby="rbd-hidden-text-1-hidden-text-7"
+    className="list-item"
+    data-rbd-drag-handle-context-id="1"
+    data-rbd-drag-handle-draggable-id="2"
+    data-rbd-draggable-context-id="1"
+    data-rbd-draggable-id="2"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      2 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+  <li
+    aria-describedby="rbd-hidden-text-1-hidden-text-7"
+    className="list-item"
+    data-rbd-drag-handle-context-id="1"
+    data-rbd-drag-handle-draggable-id="3"
+    data-rbd-draggable-context-id="1"
+    data-rbd-draggable-id="3"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      3 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+  <li
+    aria-describedby="rbd-hidden-text-1-hidden-text-7"
+    className="list-item"
+    data-rbd-drag-handle-context-id="1"
+    data-rbd-drag-handle-draggable-id="4"
+    data-rbd-draggable-context-id="1"
+    data-rbd-draggable-id="4"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      4 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+  <li
+    aria-describedby="rbd-hidden-text-1-hidden-text-7"
+    className="list-item"
+    data-rbd-drag-handle-context-id="1"
+    data-rbd-drag-handle-draggable-id="5"
+    data-rbd-draggable-context-id="1"
+    data-rbd-draggable-id="5"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      5 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots List Example List 1`] = `
+<ul
+  data-rbd-droppable-context-id="0"
+  data-rbd-droppable-id="allo"
+>
+  <li
+    aria-describedby="rbd-hidden-text-0-hidden-text-0"
+    className="list-item"
+    data-rbd-drag-handle-context-id="0"
+    data-rbd-drag-handle-draggable-id="1"
+    data-rbd-draggable-context-id="0"
+    data-rbd-draggable-id="1"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      1 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+  <li
+    aria-describedby="rbd-hidden-text-0-hidden-text-0"
+    className="list-item"
+    data-rbd-drag-handle-context-id="0"
+    data-rbd-drag-handle-draggable-id="2"
+    data-rbd-draggable-context-id="0"
+    data-rbd-draggable-id="2"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      2 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+  <li
+    aria-describedby="rbd-hidden-text-0-hidden-text-0"
+    className="list-item"
+    data-rbd-drag-handle-context-id="0"
+    data-rbd-drag-handle-draggable-id="3"
+    data-rbd-draggable-context-id="0"
+    data-rbd-draggable-id="3"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      3 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+  <li
+    aria-describedby="rbd-hidden-text-0-hidden-text-0"
+    className="list-item"
+    data-rbd-drag-handle-context-id="0"
+    data-rbd-drag-handle-draggable-id="4"
+    data-rbd-draggable-context-id="0"
+    data-rbd-draggable-id="4"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      4 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+  <li
+    aria-describedby="rbd-hidden-text-0-hidden-text-0"
+    className="list-item"
+    data-rbd-drag-handle-context-id="0"
+    data-rbd-drag-handle-draggable-id="5"
+    data-rbd-draggable-context-id="0"
+    data-rbd-draggable-id="5"
+    draggable={false}
+    onDragStart={[Function]}
+    onTransitionEnd={null}
+    role="button"
+    style={
+      Object {
+        "transform": null,
+        "transition": null,
+      }
+    }
+    tabIndex={0}
+  >
+    <span>
+      5 adress
+    </span>
+    <button
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots Search Add Point 1`] = `
+<input
+  className="search"
+  id="location-search"
+  placeholder="Адрес"
+  type="text"
+/>
+`;
+
+exports[`Storyshots Search Example Search 1`] = `
+<input
+  className="search"
+  id="location-search"
+  placeholder="Адрес"
+  type="text"
+/>
+`;

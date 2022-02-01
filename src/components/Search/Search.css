@@ -1,0 +1,18 @@
+.search {
+    display: flex;
+    flex-direction: column;
+    margin: 0 2em;
+    height: 3em;
+    transition: width 0.4s ease-in-out;
+}
+
+.search::after {
+    content: "";
+    clear: both;
+}
+
+@media screen and (max-width: 565px) {
+    .search {
+        margin: 0;
+    }
+}
